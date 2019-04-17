@@ -1,6 +1,6 @@
 {
   "name": "ckeditor5-build-balloon-psico-digital",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "The balloon editor build of CKEditor 5 – the best browser-based rich text editor.",
   "keywords": [
     "wysiwyg",
@@ -36,6 +36,7 @@
     "@ckeditor/ckeditor5-editor-balloon": "^12.1.0",
     "@ckeditor/ckeditor5-essentials": "^11.0.1",
     "@ckeditor/ckeditor5-link": "^11.0.1",
+    "@ckeditor/ckeditor5-paragraph": "^11.0.1",
     "@ckeditor/ckeditor5-paste-from-office": "^11.0.1",
     "@ckeditor/ckeditor5-alignment": "^11.0.1",
     "@ckeditor/ckeditor5-theme-lark": "^13.0.1",
